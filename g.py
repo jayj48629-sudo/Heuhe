@@ -14,7 +14,7 @@ import subprocess
 
 loop = asyncio.get_event_loop()
 
-TOKEN = '8484682076:AAGpNl_cGb6KJwdcSX_J1ITgMdQJM97G2X0' #Enter_Bot_Token_within_the_colons
+TOKEN = '8252216605:AAFJMUzfWgIJO9m_5bres-t7zOm_nMJHGPA' #Enter_Bot_Token_within_the_colons
 MONGO_URI = 'mongodb+srv://Bishal:Bishal@bishal.dffybpx.mongodb.net/?retryWrites=true&w=majority&appName=Bishal'
 FORWARD_CHANNEL_ID = -1001987596149   
 
